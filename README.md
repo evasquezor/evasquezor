@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**evasquezor/evasquezor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Erik 👋
 
-Here are some ideas to get you started:
+🎓 **Software Engineering Student** at Hochschule Heilbronn
+💻 Interested in **Software Development, Backend & AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Who am I?
+
+I'm a Software Engineering student focused on building practical software and improving my skills through real-world projects.
+
+I'm especially interested in **Backend Development, APIs, AI and scalable software systems**.
+
+## 🚀 What am I currently working on?
+
+* 🤖 **LUMII** – AI-powered learning assistant
+* 🔧 Building **REST APIs and backend services**
+* 🧠 Exploring **AI integration and LLM APIs**
+* 📚 Improving my skills in **Software Engineering & System Design**
+
+## 🛠️ Tools & Technologies
+
+**Languages**
+
+* Java
+* Python
+* JavaScript
+* SQL
+
+**Backend & Frameworks**
+
+* FastAPI
+* Node.js / Express
+* REST APIs
+* GraphQL
+
+**Tools**
+
+* Git & GitHub
+* Docker
+* Gradle
+* JUnit
+
+## 📌 Currently learning
+
+`AI Engineering` · `Backend Development` · `Cloud & Distributed Systems`
+
+---
+
+📫 **Open to:** Software Engineering internships, working student positions & interesting projects.
