@@ -1,19 +1,14 @@
-## Hi there 👋
-
 # Hi, I'm Erik 👋
 
 🎓 **Software Engineering Student** at Hochschule Heilbronn
 💻 Interested in **Software Development, Backend & AI**
 
-## 👨‍💻 Who am I?
-
-I'm a Software Engineering student focused on building practical software and improving my skills through real-world projects.
-
-I'm especially interested in **Backend Development, APIs, AI and scalable software systems**.
+Im a Software developer interesedt mainly at backend i jennualy jus trie to build things that are usselfel to resolve spezific problems
+But aside from that, I'm really interested in design and everything related to it—art is my passion.
 
 ## 🚀 What am I currently working on?
 
-* 🤖 **LUMII** – AI-powered learning assistant
+* 🤖 **LUMII** – AI-powered learning assistant for kids beetween 6 and 12 years old
 * 🔧 Building **REST APIs and backend services**
 * 🧠 Exploring **AI integration and LLM APIs**
 * 📚 Improving my skills in **Software Engineering & System Design**
@@ -40,11 +35,5 @@ I'm especially interested in **Backend Development, APIs, AI and scalable softwa
 * Docker
 * Gradle
 * JUnit
-
-## 📌 Currently learning
-
-`AI Engineering` · `Backend Development` · `Cloud & Distributed Systems`
-
----
 
 📫 **Open to:** Software Engineering internships, working student positions & interesting projects.
