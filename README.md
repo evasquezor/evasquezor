@@ -3,18 +3,15 @@
 🎓 **Software Engineering Student** at Hochschule Heilbronn
 💻 Interested in **Software Development, Backend & AI**
 
-Im a Software developer interesedt mainly at backend i jennualy jus trie to build things that are usselfel to resolve spezific problems
-But aside from that, I'm really interested in design and everything related to it—art is my passion.
+I'm a Software Developer mainly interested in backend development. In general, I enjoy building things that are useful and solve specific problems. Beyond that, I'm really interested in design and everything related to it, art is one of my passions.
 
 ## 🚀 What am I currently working on?
-
 * 🤖 **LUMII** – AI-powered learning assistant for kids beetween 6 and 12 years old
 * 🔧 Building **REST APIs and backend services**
 * 🧠 Exploring **AI integration and LLM APIs**
 * 📚 Improving my skills in **Software Engineering & System Design**
 
 ## 🛠️ Tools & Technologies
-
 **Languages**
 
 * Java
