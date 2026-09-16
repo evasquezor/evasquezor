@@ -3,7 +3,7 @@
 🎓 **Software Engineering Student** at Hochschule Heilbronn
 💻 Interested in **Software Development, Backend & AI**
 
-I'm a Software Developer mainly interested in backend development. In general, I enjoy building things that are useful and solve specific problems. Beyond that, I'm really interested in design and everything related to it, art is one of my passions.
+I'm a Software Developer mainly interested in backend development. In general, I enjoy building things that are useful and solve specific problems. Beyond that, I'm really interested in design and everything related to it, art is one of my passions 🙂‍↕️.
 
 
 
